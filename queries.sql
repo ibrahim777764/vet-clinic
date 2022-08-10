@@ -9,3 +9,4 @@ SELECT name , ESCAPE_ATTEMPTS from animals where WEIGHT_KG > 10.5;
 SELECT * from animals WHERE NEUTERED = true;
 SELECT * from animals where name !='Gabumon';
 SELECT * from animalS where WEIGHT_KG >= 10.4 and WEIGHT_KG <= 17.3;
+
