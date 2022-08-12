@@ -1,31 +1,34 @@
-# curriculum-databases-projects-template
-
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+## vet-clinic: create animals table
 
 
-## Getting Started
+> In this project I'm using a relational database to create the data structure for a vet clinic. I started with one table(animals), and step by step, I will create a complete database with data about:
 
-This repository includes files with plain SQL that can be used to recreate a database:
+animals
+animals' owners
+clinic employees
+visits
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+## Built With
+
+- ![](https://img.shields.io/badge/Github-blueviolet)
+- ![](https://img.shields.io/badge/PostgreSQL-blue)
 
 
 ## Authors
 
-👤 **Author1**
+👤 **ibrahim naseer**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+I am an aspiring web developer from pakistan.
+- GitHub: [@ibrahimgit](https://github.com/ibrahim777764)
+- Twitter: [Ibrahimtwit](https://twitter.com/Ibrahim66650696)
+- LinkedIn: [@ibrahimlin](https://www.linkedin.com/in/ibrahim-naseer-215667225/)
 
-👤 **Author2**
+## Setup
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+If you wish to run the project locally, please do the following:
+
+- Clone the repository to your local machine. - **`git clone git@github.com:ibrahim777764/vet-clinic.git`** - **`cd Vet-clinic`**
+
 
 ## 🤝 Contributing
 
